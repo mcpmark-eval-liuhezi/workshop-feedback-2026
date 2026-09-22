@@ -1,0 +1,13 @@
+session,attendee,overall_rating,would_recommend
+opening-keynote,alice,5,yes
+opening-keynote,bob,4,yes
+opening-keynote,carol,5,yes
+hands-on-lab,dave,3,no
+hands-on-lab,eve,4,yes
+hands-on-lab,frank,2,no
+hands-on-lab,leo,5,yes
+closing-panel,grace,5,yes
+closing-panel,heidi,4,yes
+closing-panel,ivan,3,yes
+closing-panel,judy,5,yes
+closing-panel,kate,4,yes

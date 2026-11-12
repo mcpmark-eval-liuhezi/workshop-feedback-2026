@@ -1,19 +1,30 @@
-# Workshop Feedback Summary
+# Workshop Feedback Summary (2026)
 
-Summary of the post-workshop feedback survey (`survey.csv`).
+This summary is generated from `survey.csv` (12 data rows, excluding the header).
 
 ## Key Figures
 
+- **Number of responses:** 12
+- **Average overall_rating:** 4.1 (rounded to one decimal place)
+- **Respondents who would recommend (yes):** 10
+- **Session with the most responses:** closing-panel (5 responses)
+
+## Breakdown
+
 | Metric | Value |
 | --- | --- |
-| Number of responses | 12 |
+| Total responses | 12 |
 | Average overall rating | 4.1 |
-| Would recommend (yes) | 10 |
-| Most popular session | closing-panel (5 responses) |
+| would_recommend = yes | 10 |
+| Top session | closing-panel (5 responses) |
+
+## Session Response Counts
+
+- opening-keynote: 3 responses
+- hands-on-lab: 4 responses
+- closing-panel: 5 responses (most)
 
 ## Notes
 
-- **Responses:** 12 data rows in `survey.csv` (header excluded).
-- **Average overall rating:** 4.1 (mean of the `overall_rating` column, rounded to one decimal place).
-- **Would recommend:** 10 respondents have `would_recommend` set to `yes`.
-- **Most popular session:** `closing-panel` drew the most responses, with 5.
+- The raw `survey.csv` file is committed on the default branch (`main`) of this repository.
+- This file (`SUMMARY.md`) was added via a pull request from the `summary` branch.
